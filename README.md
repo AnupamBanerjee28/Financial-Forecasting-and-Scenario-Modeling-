@@ -58,8 +58,8 @@ The analysis leveraged real-world financial data, including historical Income St
 **5.	Reporting:** Generated structured outputs, including scenario tables and visualizations, to present findings clearly.
 
 
-## screenshots: 
+## screenshot: 
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/AnupamBanerjee28/Financial-Forecasting-and-Scenario-Modeling-/blob/32eae7592157dfca46903e327c51ab597a3133c3/Screenshot%201.png)
 
-![Image Alt](image_url)
+
